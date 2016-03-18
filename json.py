@@ -6,3 +6,9 @@ print d_json
 
 def test1():
 	print "it was test code"
+
+'''
+
+
+
+'''
